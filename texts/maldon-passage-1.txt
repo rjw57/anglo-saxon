@@ -1,0 +1,121 @@
+Byrhtnoð maþelode,    bord hafenode,
+
+# w: Byrhtnoð: prop. n. Byrhtnoð
+# w: maþelode: 2 3s maðelian: made a speech
+# w: bord: neu. as. bord: shield
+# w: hafenode: 2 pret. 3s hafenian: raised aloft
+#
+# t: Byrhtnoð made a speach, raised aloft his shield,
+
+wand wacne æsc,    wordum mælde,
+
+# w: wand: III 3s pret. windan: waved, brandished
+# w: wacne: adj. asm. wāc: weak, slender
+# w: œsc: m. acc. œsc: ash (prob. spear)
+# w: wordum: neu. dat. word: word
+# w: mælde: 1 3s pret. mǣlan: spoke
+#
+# t: waved him his slender ash spear, word spoke
+
+yrre and anræd    ageaf him andsware:
+
+# w: yrre: adj. nsm. yrre: angry
+# w: and: conj.: and
+# w: anræd: adj. nsm. anræd: resolute
+# w: ageaf: V 3s pret. āgiefan: gave back
+# w: him: m. pron. dat. 3s: him
+# w: andsware: 2 1s andswarian: answer
+#
+# t: angry and resolute he gave him back an answer:
+
+‘Gehyrst þu, sælida,    hwæt þis folc segeð?
+
+# w: Gehyrst: I 2s gehieran: Hear
+# w: þu: pron. nom. 2s: you
+# w: sælida: m. nom. sælida: sailor
+# w: hwæt: int. pron. neu.: what
+# w: þis: de. pron. acc. neu.: this
+# w: folc: n. acc. s. folc: folk
+# w: segeð: 3 3s ind. secgan: says
+#
+# t: Hear you, sailor, what this folk says?
+
+Hi willað eow to gafole    garas syllan,
+
+# w: Hi: pron. nsm.: he
+# w: willað: anom. 3s willan: wills
+# w: eow: pron. acc. 2p: you
+# w: to: prep. w.d.: to
+# w: gafole: neu. dat. gafol: tribute
+# w: garas: m. acc. pl. gar: spears
+# w: syllan: I inf. sellan: give
+#
+# t: He(?) wills you to give spears as tribute,
+
+ættrynne ord    and ealde swurd,
+
+# w: ættrynne: adj. nms ættryne: poisoned
+# w: ord: m. nom. s. ord: point, spear
+# w: and: conj.: and
+# w: ealde: nom. neu. w. eald: old
+# w: swurd: neu. nom. s. sweord: sword
+#
+# t: poisoned point/spear and old sword,
+
+þa heregeatu    þe eow æt hilde ne deah.
+
+# w: þa: dem. pron. f. acc. þa: the
+# w: heregeatu: f. acc. s. heregeatu: heriot, war-equipment
+# w: þe: pron. acc. 2s: you
+# w: eow: pron. dat. 2p: you
+# w: æt: prep. w.d. æt: at, from
+# w: hilde: f. dat. hild: battle
+# w: ne: conj. ne: not
+# w: deah: w.d. dugan: be of use
+#
+# t: the war-equipment that is of no use to you in battle.
+
+Brimmanna boda,    abeod eft ongean,
+
+# w: Brimmanna: prop. n.: Brimmanna
+# w: boda: m. nom. s. boda: messenger
+# w: abeod: II 1 pret. abeodan: announced
+# w: eft: adv. eft: again/afterwards
+# w: ongean: prep w.d.: against
+#
+# t: Brimanna messenger, speaks also against,
+
+sege þinum leodum    miccle laþre spell,
+
+# w: sege: 3 s. imp. secgan: must say
+# w: þinum: poss. adj. dsn. þin: your
+# w: leodum: m. dat. leod: tribesman
+# w: miccle: adv. miccle: much
+# w: laþre: adj. asn. lað: hateful
+# w: spell: n. acc. sppell: story
+#
+# t: tells of your tibesman a most hateful story,
+
+þæt her stynt unforcuð    eorl mid his werode,
+
+# w: þæt:
+# w: her:
+# w: stynt:
+# w: unforcuð:
+# w: eorl:
+# w: mid:
+# w: his:
+# w: werode: n. nom. s. werod: troop, company
+
+þe wile gealgean    eþel þysne,
+
+Æþelredes eard,    ealdres mines,
+folc and foldan.    Feallan sceolon
+hæþene æt hilde.    To heanlic me þinceð
+þæt ge mid urum sceattum    to scype gangon
+unbefohtene,    nu ge þus feor hider
+on urne eard    in becomon.
+Ne sceole ge swa softe    sinc gegangan;
+us sceal ord and ecg    ær geseman,
+grim guðplega,    ær we gofol syllon.’
+
