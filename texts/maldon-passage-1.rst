@@ -22,7 +22,7 @@ translating.
 | :word:`bord: asn bord: shield`
 | :word:`hafenode: 2 pret. 3 hafenian: raised aloft`
 | ..
-| :trans:`Byrhtnoð made a speach,   raised aloft his shield,`
+| :trans:`Byrhtnoð made a speech,   raised aloft his shield,`
 | ..
 | wand wacne æsc,    wordum mælde,
 | ..
