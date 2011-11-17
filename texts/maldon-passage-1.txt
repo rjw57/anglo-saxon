@@ -83,7 +83,7 @@ Brimmanna boda,    abeod eft ongean,
 # w: eft: adv. eft: again/afterwards
 # w: ongean: prep w.d.: against
 #
-# t: The seafarer's messenger, announced again against it,
+# t: The seafarers' messenger, announced again against it,
 
 sege þinum leodum    miccle laþre spell,
 
