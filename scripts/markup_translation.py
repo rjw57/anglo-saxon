@@ -346,6 +346,7 @@ class TextLine(Line):
   def html(self):
     lines = [ '<div class="oe-text-line">' ]
 
+    lines.append('<div class="oe-text-line-number">%s</div>' % (self.line_no,))
     lines.append('<div class="oe-text-original">')
 
     analysis_iter = self.word_analysis.__iter__()

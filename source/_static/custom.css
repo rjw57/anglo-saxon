@@ -2,8 +2,10 @@
 
 .oe-text-line { display: table-row; }
 .oe-text-half-line:first-child { margin-right: 2em; }
-.oe-text-original, .oe-text-translation { display: table-cell; white-space: nowrap; }
+.oe-text-line-number, .oe-text-original, .oe-text-translation { display: table-cell; white-space: nowrap; }
 .oe-text-translation { padding-left: 2em; }
+
+.oe-text-line-number { font-size: 75%; color: #aaa; text-align: right; padding-right: 1em; }
 
 .oe-word-class-unknown { color: #f88; }
 .oe-word-class-verb { color: #484; text-decoration: underline; }

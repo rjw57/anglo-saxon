@@ -21,6 +21,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">1</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-noun">Byrhtnoð</span> 
@@ -49,6 +50,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">2</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-verb oe-word-class-verb-class-III">wand</span> 
@@ -80,6 +82,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">3</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-adjective">yrre</span> 
@@ -114,6 +117,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">4</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-verb oe-word-class-verb-class-I">Gehyrst</span> 
@@ -151,6 +155,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">5</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-pronoun oe-word-class-personal-pronoun">Hi</span> 
@@ -188,6 +193,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">6</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-adjective">ættrynne</span> 
@@ -219,6 +225,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">7</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-pronoun oe-word-class-demonstrative-pronoun">þa</span> 
@@ -259,6 +266,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">8</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-noun">Brimmanna</span> 
@@ -290,6 +298,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">9</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-verb oe-word-class-verb-class-3">sege</span> 
@@ -324,6 +333,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">10</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-pronoun oe-word-class-demonstrative-pronoun">þæt</span> 
@@ -364,6 +374,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">11</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-pronoun oe-word-class-personal-pronoun">þe</span> 
@@ -395,6 +406,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">12</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-unknown">Æþelredes</span> 
@@ -415,6 +427,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">13</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-unknown">folc</span> 
@@ -437,6 +450,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">14</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-unknown">hæþene</span> 
@@ -463,6 +477,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">15</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-unknown">þæt</span> 
@@ -491,6 +506,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">16</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-unknown">unbefohtene</span>,    
@@ -515,6 +531,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">17</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-unknown">on</span> 
@@ -537,6 +554,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">18</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-unknown">Ne</span> 
@@ -563,6 +581,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">19</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-unknown">us</span> 
@@ -589,6 +608,7 @@ Translation
 .. raw:: html
 
   <div class="oe-text-line">
+  <div class="oe-text-line-number">20</div>
   <div class="oe-text-original">
   <span class="oe-text-half-line">
   <span class="oe-word"><span class="oe-word-class-unknown">grim</span> 
