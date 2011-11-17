@@ -1,6 +1,23 @@
 The Battle of Maldon: Passage 1
 ===============================
 
+  The Battle of Maldon is the name given to an Old English poem of uncertain
+  date celebrating the real Battle of Maldon of 991, at which the Anglo-Saxons
+  failed to prevent a Viking invasion. Only 325 lines of the poem are extant;
+  both the beginning and the ending are lost.
+
+    -- From Wikipedia's `The Battle of Maldon <http://en.wikipedia.org/wiki/The_battle_of_maldon>`_ article.
+
+The following is an attempt at a translation of a passage from the poem. I am
+still a beginner at Old English so I would recommend *not* using this as an
+exemplary translation.
+
+Hover over individual words in the poem to see the notes I made while
+translating.
+
+Translation
+-----------
+
 .. raw:: html
 
   <div class="oe-text-line">
