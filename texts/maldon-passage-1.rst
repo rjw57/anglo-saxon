@@ -274,7 +274,7 @@ Notes on specific lines
 
 :19: *us sceal ... ær geseman*: Somewhat reversed word order for Modern
   English. I think it is the sense of *sceal us geseman* (shall settle
-  us) linking with the *æe* (before). So we must *ær* (ere) have swords
+  us) linking with the *ær* (before). So we must *ær* (ere) have swords
   and spears and *then* we shall be settled.
 
 :20: Similarly, *ær* (ere) we give tribute, we will have given (pret. *syllon*)
