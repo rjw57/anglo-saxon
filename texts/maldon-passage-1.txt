@@ -50,7 +50,7 @@ Hi willað eow to gafole    garas syllan,
 # w: garas: m. acc. pl. gar: spears
 # w: syllan: I inf. sellan: give
 #
-# t: He(?) wills you to give spears as tribute,
+# t: He wants to pay tribute to you by giving spears,
 
 ættrynne ord    and ealde swurd,
 
@@ -60,7 +60,7 @@ Hi willað eow to gafole    garas syllan,
 # w: ealde: nom. neu. w. eald: old
 # w: swurd: neu. nom. s. sweord: sword
 #
-# t: poisoned point/spear and old sword,
+# t: poisoned points and old sword,
 
 þa heregeatu    þe eow æt hilde ne deah.
 
@@ -83,7 +83,7 @@ Brimmanna boda,    abeod eft ongean,
 # w: eft: adv. eft: again/afterwards
 # w: ongean: prep w.d.: against
 #
-# t: Brimanna messenger, speaks also against,
+# t: Brimanna messenger, announced also against it,
 
 sege þinum leodum    miccle laþre spell,
 
@@ -94,7 +94,7 @@ sege þinum leodum    miccle laþre spell,
 # w: laþre: adj. asn. lað: hateful
 # w: spell: n. acc. sppell: story
 #
-# t: tells of your tibesman a most hateful story,
+# t: speaks of your tibesman a most hateful story,
 
 þæt her stynt unforcuð    eorl mid his werode,
 
