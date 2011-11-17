@@ -18,7 +18,7 @@ translating.
 | Byrhtnoð maþelode,   bord hafenode,
 | ..
 | :word:`Byrhtnoð: nsm prop.: Byrhtnoð`
-| :word:`maþelode: 2 3 maðelian: made a speech`
+| :word:`maþelode: 2 3 pret. maðelian: made a speech`
 | :word:`bord: asn bord: shield`
 | :word:`hafenode: 2 pret. 3 hafenian: raised aloft`
 | ..
