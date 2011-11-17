@@ -45,7 +45,7 @@ translating.
 | ..
 | :trans:`angry and resolute   he gave him back an answer:`
 | ..
-| ‘Gehyrst þu, sælida,    hwæt þis folc segeð?
+| 'Gehyrst þu, sælida,    hwæt þis folc segeð?
 | ..
 | :word:`Gehyrst: I 2 gehieran: Hear`
 | :word:`þu: 2 pers. pron. ns: you`
@@ -55,7 +55,7 @@ translating.
 | :word:`folc: asn folc: folk`
 | :word:`segeð: 3 3 (indicative (apparently)) secgan: says`
 | ..
-| :trans:`Hear you, sailor,   what this folk says?`
+| :trans:`'Hear you, sailor,   what this folk says?`
 | ..
 | Hi willað eow to gafole    garas syllan,
 | ..

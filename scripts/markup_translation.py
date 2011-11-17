@@ -45,8 +45,7 @@ def split_half_lines(text):
 
   half_line_end_sep = re.compile(r'\s\s+$')
   for w, s in grouper(2, re.split('(\W+)', text, flags=re.UNICODE)):
-    if len(w) > 0:
-      current_half_line.append((w,s))
+    current_half_line.append((w,s))
 
     if s is not None and len(current_half_line) > 0 and re.search(half_line_end_sep, s) is not None:
       half_lines.append(current_half_line)
@@ -356,13 +355,22 @@ class TextLine(Line):
       for word, sep in hl:
         word_class = 'unknown'
         discussion_html = None
-        analysis = next(analysis_iter)
-        try:
-          pa = self.parse_analysis(word, analysis)
-        except ParseError as pe:
-          raise ParseError('Error parsing %s: %s' % (analysis, pe.msg))
-        if pa is not None:
-          word_class, discussion_html = pa
+
+        if len(word) > 0:
+          analysis = next(analysis_iter)
+          try:
+            pa = self.parse_analysis(word, analysis)
+          except ParseError as pe:
+            raise ParseError('Error parsing %s: %s' % (analysis, pe.msg))
+          if pa is not None:
+            word_class, discussion_html = pa
+        else:
+          if sep is None:
+            sep = ''
+          if word is None:
+            word = ''
+          word_class = ''
+          discssion_html = None
 
         lines.append('<span class="oe-word"><span class="%s">%s</span>%s'
             % (' '.join(['oe-word-class-'+x for x in word_class.split()]), cgi.escape(word), cgi.escape(sep)))
