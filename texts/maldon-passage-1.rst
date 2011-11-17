@@ -158,7 +158,7 @@ re-phrase it for a modern audience.
 | :word:`eþel: asm eþel: homeland`
 | :word:`þysne: dem. pron. asm (var. þisne): this`
 | ..
-| :trans:`that will defend for you   this homeland,`
+| :trans:`that will defend from you   this homeland,`
 | ..
 | Æþelredes eard,    ealdres mines,
 | ..
