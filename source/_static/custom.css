@@ -1,0 +1,31 @@
+@import url("haiku.css");
+
+.oe-text-line { display: table-row; }
+.oe-text-half-line:first-child { margin-right: 2em; }
+.oe-text-original, .oe-text-translation { display: table-cell; white-space: nowrap; }
+.oe-text-translation { padding-left: 2em; }
+
+.oe-word-class-unknown { color: #f88; }
+.oe-word-class-verb { color: #484; text-decoration: underline; }
+.oe-word-class-noun { color: #448; text-decoration: underline; }
+.oe-word-class-pronoun { color: #444; text-decoration: underline; }
+.oe-word-class-adjective { color: #884; text-decoration: underline; }
+.oe-word-class-conjunctive { color: #488; text-decoration: underline; }
+.oe-word-class-preposition { color: #848; text-decoration: underline; }
+.oe-word-class-adverb { color: #888; text-decoration: underline; }
+.oe-word-class-anomalous { color: #844; text-decoration: underline; }
+.oe-word-class-error { color: #800; text-decoration: underline; }
+
+.oe-word { position: relative; }
+.oe-word-analysis { display: none; }
+.oe-word:hover .oe-word-analysis {
+  display: block; position: absolute; z-index: 1;
+  background: white; padding: 0.5em; border: 1px solid #888;
+}
+
+.oe-word-analysis p { margin: 0; padding: 0; }
+.oe-analysis-conclusion { font-weight: bold; display: table-cell; }
+.oe-analysis-class {
+  padding-left: 2em; display: table-cell; width: 100%;
+  text-align: right; font-style: italic;
+}

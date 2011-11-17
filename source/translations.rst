@@ -1,0 +1,8 @@
+Translations
+============
+
+.. toctree::
+  :glob:
+
+  translations/*
+
