@@ -15,7 +15,7 @@ wand wacne æsc,    wordum mælde,
 # w: wordum: neu. dat. word: word
 # w: mælde: 1 3s pret. mǣlan: spoke
 #
-# t: waved him his slender ash spear, word spoke
+# t: he waved his slender ash spear, word spoke
 
 yrre and anræd    ageaf him andsware:
 
@@ -111,11 +111,13 @@ sege þinum leodum    miccle laþre spell,
 
 þe wile gealgean    eþel þysne,
 
-# w: þe:
-# w: wile:
-# w: gealgean:
-# w: eþel:
-# w: þysne:
+# w: þe: pers. pron. 2 dat.: you
+# w: wile: anom. 1s willan: will
+# w: gealgean: 2 subj. pl. geealgian: defend
+# w: eþel: m. eþel: homeland
+# w: þysne: dem. pron. acc. þisne: this
+#
+# t: that he would defend this homeland for you,
 
 Æþelredes eard,    ealdres mines,
 
