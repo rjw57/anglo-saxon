@@ -87,25 +87,27 @@ Brimmanna boda,    abeod eft ongean,
 
 sege þinum leodum    miccle laþre spell,
 
-# w: sege: 3 s. imp. secgan: must say
+# w: sege: 3 s. imp. secgan: says
 # w: þinum: poss. adj. dsn. þin: your
 # w: leodum: m. dat. leod: tribesman
 # w: miccle: adv. miccle: much
 # w: laþre: adj. asn. lað: hateful
 # w: spell: n. acc. sppell: story
 #
-# t: speaks of your tibesman a most hateful story,
+# t: tells your tibesman a most hateful story,
 
 þæt her stynt unforcuð    eorl mid his werode,
 
-# w: þæt:
-# w: her:
-# w: stynt:
-# w: unforcuð:
-# w: eorl:
-# w: mid:
-# w: his:
-# w: werode: n. nom. s. werod: troop, company
+# w: þæt: dem. pron. neu. nom.: that
+# w: her: adv. her: here
+# w: stynt: VI 3 pres. ind. standan: stands
+# w: unforcuð: adj. unforcuð: reputable, brave
+# w: eorl: m. acc. eorl: earl, nobleman
+# w: mid: prep. w.d.a.i.: with
+# w: his: poss. pron. m. acc.: his 
+# w: werode: n. acc. s. werod: troop, company
+#
+# t: that here stands a noble earl with his company,
 
 þe wile gealgean    eþel þysne,
 
