@@ -59,7 +59,7 @@ translating.
 | ..
 | Hi willað eow to gafole    garas syllan,
 | ..
-| :word:`Hi: 3 pers. pron. nsm: he`
+| :word:`Hi: 3 pers. pron. nsm (appears to be a variant of <i>he</i>): he`
 | :word:`willað: anom. third person, singular willan: wills`
 | :word:`eow: 2 pers. ap pron.: you`
 | :word:`to: prep. w.d.: to`
