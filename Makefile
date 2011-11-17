@@ -20,20 +20,6 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) $(S
 .PHONY: translations prepare sync
 .PHONY: help clean html dirhtml singlehtml pickle json htmlhelp qthelp devhelp epub latex latexpdf text man changes linkcheck doctest
 
-sync: html
-	rsync -av --delete $(BUILDDIR)/html/ richwareham.com:/var/www/richwareham.com/htdocs/oe-notes
-
-translations: $(patsubst $(TRANSDIR)/%.rst, $(GENTRANSDIR)/%.rst, $(wildcard $(TRANSDIR)/*.rst))
-
-%/.stamp:
-	mkdir -p $(dir $@)
-	touch $@
-
-$(GENTRANSDIR)/%.rst: $(TRANSDIR)/%.rst $(GENTRANSDIR)/.stamp scripts/markup_translation.py
-	$(PYTHON) scripts/markup_translation.py $< $@
-
-prepare: translations
-
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
 	@echo "  html       to make standalone HTML files"
@@ -52,6 +38,20 @@ help:
 	@echo "  changes    to make an overview of all changed/added/deprecated items"
 	@echo "  linkcheck  to check all external links for integrity"
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
+
+sync: html
+	rsync -av --delete $(BUILDDIR)/html/ richwareham.com:/var/www/richwareham.com/htdocs/oe-notes
+
+translations: $(patsubst $(TRANSDIR)/%.rst, $(GENTRANSDIR)/%.rst, $(wildcard $(TRANSDIR)/*.rst))
+
+%/.stamp:
+	mkdir -p $(dir $@)
+	touch $@
+
+$(GENTRANSDIR)/%.rst: $(TRANSDIR)/%.rst $(GENTRANSDIR)/.stamp scripts/markup_translation.py
+	$(PYTHON) scripts/markup_translation.py $< $@
+
+prepare: translations
 
 clean:
 	-rm -rf $(BUILDDIR)/*

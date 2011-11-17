@@ -140,6 +140,9 @@ class TextLine(Line):
 
     if len(fields) < 3:
       raise ParseError('No conclusion in analysis: %s' % (analysis,))
+
+    if len(fields) > 3:
+      raise ParseError('Too many fields in analysis: %s' % (analysis,))
     
     discussion, conclusion = fields[1:]
 
@@ -168,7 +171,10 @@ class TextLine(Line):
       display_class = 'anomalous'
       discussion_words.remove(anom_word)
 
-      root = discussion_words[-1]
+      try:
+        root = discussion_words[-1]
+      except IndexError:
+        raise ParseError('No root word in analysis: %s' % (discussion,))
       discussion_words = discussion_words[:-1]
 
       discussion_html.extend(discussion_words)
@@ -205,6 +211,7 @@ class TextLine(Line):
       if 'dem.' in discussion_words:
         discussion_words.remove('dem.')
         word_class = 'pronoun demonstrative-pronoun'
+        display_class = 'pronoun (demonstrative)'
         discussion_html.append(self._parse_noun_inflection_spec(discussion_words[0]))
         discussion_words = discussion_words[1:]
       elif 'int.' in discussion_words:
@@ -259,7 +266,10 @@ class TextLine(Line):
       #  word_class = 'error'
       #  discussion_html.append('STRONG OR WEAK?')
 
-      root = discussion_words[-1]
+      try:
+        root = discussion_words[-1]
+      except IndexError:
+        raise ParseError('No root word in analysis: %s' % (discussion,))
       discussion_words = discussion_words[:-1]
       discussion_html.append('of <i>' + root + '</i>')
     elif verb_match is not None:
@@ -300,7 +310,10 @@ class TextLine(Line):
 
       discussion_html.append(', '.join(inflection))
 
-      root = discussion_words[-1]
+      try:
+        root = discussion_words[-1]
+      except IndexError:
+        raise ParseError('No root word in analysis: %s' % (discussion,))
       discussion_words = discussion_words[:-1]
       discussion_html.append('of <i>' + root + '</i>')
     elif noun_match is not None:
@@ -318,7 +331,10 @@ class TextLine(Line):
         if len(discussion_words) > 2:
           raise ParseError('More discussion than necessary?: %s' % (discussion,))
       else:
-        root = discussion_words[-1]
+        try:
+          root = discussion_words[-1]
+        except IndexError:
+          raise ParseError('No root word in analysis: %s' % (discussion,))
         discussion_words = discussion_words[:-1]
         discussion_html.append('of <i>' + root + '</i>')
     else:
@@ -448,7 +464,11 @@ if __name__ == '__main__':
   try:
     records = parse(in_file.readlines())
     for r in records:
-      out_file.write(str(r))
+      try:
+        out_file.write(str(r))
+      except UnicodeEncodeError:
+        l = r.__str__().encode('utf-8')
+        out_file.write(l)
   except ParseError as e:
     print('Parse error: %s' % (e,))
     sys.exit(1)

@@ -1,5 +1,6 @@
 @import url("haiku.css");
 
+.oe-text { display: table; margin: 0 auto; }
 .oe-text-line { display: table-row; }
 .oe-text-half-line:first-child { margin-right: 2em; }
 .oe-text-line-number, .oe-text-original, .oe-text-translation { display: table-cell; white-space: nowrap; }
