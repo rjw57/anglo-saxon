@@ -109,13 +109,91 @@ sege þinum leodum    miccle laþre spell,
 
 þe wile gealgean    eþel þysne,
 
+# w: þe:
+# w: wile:
+# w: gealgean:
+# w: eþel:
+# w: þysne:
+
 Æþelredes eard,    ealdres mines,
+
+# w: Æþelredes:
+# w: eard:
+# w: ealdres:
+# w: mines:
+
 folc and foldan.    Feallan sceolon
+
+# w: folc:
+# w: and:
+# w: foldan:
+# w: Feallan:
+# w: sceolon:
+
 hæþene æt hilde.    To heanlic me þinceð
+
+# w: hæþene:
+# w: æt:
+# w: hilde:
+# w: To:
+# w: heanlic:
+# w: me:
+# w: þinceð:
+
 þæt ge mid urum sceattum    to scype gangon
+
+# w: þæt:
+# w: ge:
+# w: mid:
+# w: urum:
+# w: sceattum:
+# w: to:
+# w: scype:
+# w: gangon:
+
 unbefohtene,    nu ge þus feor hider
+
+# w: unbefohtene:
+# w: nu:
+# w: ge:
+# w: þus:
+# w: feor:
+# w: hider:
+
 on urne eard    in becomon.
+
+# w: on:
+# w: urne:
+# w: eard:
+# w: in:
+# w: becomon:
+
 Ne sceole ge swa softe    sinc gegangan;
+
+# w: Ne:
+# w: sceole:
+# w: ge:
+# w: swa:
+# w: softe:
+# w: sinc:
+# w: gegangan:
+
 us sceal ord and ecg    ær geseman,
+
+# w: us:
+# w: sceal:
+# w: ord:
+# w: and:
+# w: ecg:
+# w: ær:
+# w: geseman:
+
 grim guðplega,    ær we gofol syllon.’
+
+# w: grim:
+# w: guðplega:
+# w: ær:
+# w: we:
+# w: gofol:
+# w: syllon:
 
