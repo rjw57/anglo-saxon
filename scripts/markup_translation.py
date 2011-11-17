@@ -321,7 +321,7 @@ class TextLine(Line):
       else:
         root = discussion_words[-1]
         discussion_words = discussion_words[:-1]
-        discussion_html.append('of ' + root)
+        discussion_html.append('of <i>' + root + '</i>')
     else:
       discussion_html.append(cgi.escape(discussion))
 
