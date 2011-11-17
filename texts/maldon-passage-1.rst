@@ -15,9 +15,6 @@ exemplary translation.
 Hover over individual words in the poem to see the notes I made while
 translating.
 
-Translation
------------
-
 | Byrhtnoð maþelode,   bord hafenode,
 | ..
 | :word:`Byrhtnoð: nsm prop.: Byrhtnoð`
