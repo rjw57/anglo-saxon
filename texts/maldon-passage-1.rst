@@ -45,10 +45,10 @@ re-phrase it for a modern audience.
 | :word:`wand: III 3 pret. windan: waved, brandished`
 | :word:`wacne: adj. asm wāc: weak, slender`
 | :word:`æsc: asm æsc: ash (prob. spear)`
-| :word:`wordum: dsn word: word`
+| :word:`wordum: dpn word: words`
 | :word:`mælde: 1 3 pret. mǣlan: spoke`
 | ..
-| :trans:`he waved his slender ash-spear,   word spoke`
+| :trans:`he waved his slender ash-spear,   spoke words`
 | ..                                        ^- spoke in words
 | ..
 | yrre and anræd    ageaf him andsware:
