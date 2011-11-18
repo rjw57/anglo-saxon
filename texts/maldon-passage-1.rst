@@ -86,7 +86,7 @@ re-phrase it for a modern audience.
 | :word:`garas: apm gar: spears`
 | :word:`syllan: I inf. sellan: give`
 | ..
-| :trans:`He wants to pay tribute to you   by giving spears,`
+| :trans:`He will pay tribute to you   by giving spears,`
 | ..      ^- They are willing to give you spears as tribute
 | ..
 | ættrynne ord    and ealde swurd,
