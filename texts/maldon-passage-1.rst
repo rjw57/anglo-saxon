@@ -167,7 +167,7 @@ re-phrase it for a modern audience.
 | :word:`ealdres: gsm ealdor: leader's`
 | :word:`mines: gsn mīn: my`
 | ..
-| :trans:`Æþelrad's homeland,   my leader's country,`
+| :trans:`Æþelred's homeland,   my leader's country,`
 | ..
 | folc and foldan.    Feallan sceolon
 | ..
