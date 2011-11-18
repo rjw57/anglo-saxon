@@ -134,7 +134,7 @@ re-phrase it for a modern audience.
 | :word:`laþre: adj. asn lað: hateful`
 | :word:`spell: asn spell: story`
 | ..
-| :trans:`tell your tibesmen   a most hateful story,`
+| :trans:`tell your tribesmen   a most hateful story,`
 | ..
 | þæt her stynt unforcuð    eorl mid his werode,
 | ..
