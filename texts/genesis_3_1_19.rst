@@ -310,7 +310,7 @@ in the King James version of the bible.
 | :word:`wædbrec: apf wædbrec: breeches, trousers`
 | :word:`Eft: adv.: again`
 | ..
-| :trans:`they sewed together figleaves and made clothing. Again`
+| :trans:`they sewed together figleaves, and made clothing. Again`
 | ..
 | ða ða God com, ond hi gehyrdon his stemne ðær he
 | eode on neorxnawange ofer midne dæg, ða behydde
