@@ -159,6 +159,7 @@ class TextLine(Line):
     adv_word = 'adv.'
     prep_word = 'prep.'
     anom_word = 'anom.'
+    spec_word = 'spec.'
     
     discussion_html = []
 
@@ -247,6 +248,12 @@ class TextLine(Line):
       else:
         discussion_html.append('UNKNOWN CLASS OF PRONOUN ')
         word_class = 'error'
+    elif spec_word in discussion_words:
+      word_class = 'special'
+      display_class = 'special'
+      discussion_words.remove(spec_word)
+      discussion_html.extend(discussion_words)
+      discussion_words = []
     elif adjective_match is not None:
       discussion_words.remove(adjective_match.group(1))
       word_class = 'adjective'
@@ -408,7 +415,7 @@ class TextLine(Line):
           words += w
           if s is not None:
             words += s
-        lines.append('<span class="oe-text-half-line">%s</span>' % (cgi.escape(words)))
+        lines.append('<span class="oe-text-half-line">%s</span>' % (words,))
       lines.append('</div>')
 
     lines.append('</div>')
