@@ -241,7 +241,7 @@ in the King James version of the bible.
 | :word:`ðuhte: I pret. 3 (impers. verb with dative object) þyncan: thought`
 | :word:`ond: conj.: and`
 | ..
-| :trans:`tree was good to eat, so she thought, and`
+| :trans:`tree was good to eat, so it seemed to her, and`
 | ..
 | wlitig on eagum ond lustbære on gesyhðe, ond genam
 | ..
@@ -268,7 +268,7 @@ in the King James version of the bible.
 | :word:`geæt: V 3 pret. geetan: ate, devoured`
 | :word:`ond: conj.: and`
 | :word:`sealde: I pret. 3 sellan: gave`
-| :word:`hyre: dem. pron. gsf (variant of <em>hire</em>): her`
+| :word:`hyre: 3 pers. pron. gsf (variant of <em>hire</em>): her`
 | ..
 | :trans:`the fruit of that tree and devoured it and gave her`
 | ..
@@ -279,15 +279,39 @@ in the King James version of the bible.
 | :word:`æt: V 3 pret. etan: ate`
 | :word:`ða: spec. relative pronoun: then`
 | :word:`Ond: conj.: and`
-| :word:`heora:`
-| :word:`begra:`
-| :word:`eagan:`
-| :word:`wurden:`
+| :word:`heora: 3 pers. pron. gp? (variant of <em>hira</em>): their`
+| :word:`begra: gpm begen: both`
+| :word:`eagan: apn eage: eyes`
+| :word:`wurden: III 3 (M&amp;R have wurdon) weorðan: became, happened`
 | ..
-| :trans:`man it. He ate then. And`
+| :trans:`man it: he ate then. And both their eyes became`
 | ..
 | geopenode; hi oncneowon ða ðæt hi nacode wæron,
+| ..
+| :word:`geopenode: 2 3 pret. openian: opened`
+| :word:`hi: 3 pers. pron. np?: they`
+| :word:`oncneowon: VII pret. pl. oncnawan: knew`
+| :word:`ða: conj.: then`
+| :word:`ðæt: conj.: that`
+| :word:`hi: 3 pers. pron. np?: they`
+| :word:`nacode: adj. np? nacod: naked`
+| :word:`wæron: anom. preterite, plural beon: were`
+| ..
+| :trans:`opened; they knew then that they were naked,`
+| ..
 | sywodon him ficleaf, ond worhton him wædbrec. Eft
+| ..
+| :word:`sywodon: 2 pret. pl. (M&amp;R have siwoden) siwian: sewed`
+| :word:`him: 3 pers. pron. dp?: them`
+| :word:`ficleaf: apn ficleaf: figleaf`
+| :word:`ond: conj.: and`
+| :word:`worhton: I pret. pl. wyrcan: made, wrought`
+| :word:`him: 3 pers. pron. dp?: them`
+| :word:`wædbrec: apf wædbrec: breeches, trousers`
+| :word:`Eft: adv.: again`
+| ..
+| :trans:`they sewed together figleaves and made clothing. Again`
+| ..
 | ða ða God com, ond hi gehyrdon his stemne ðær he
 | eode on neorxnawange ofer midne dæg, ða behydde
 | Adam hine, ond his wif eac swa dyde, fram Godes
@@ -357,3 +381,12 @@ Notes on specific lines
 :18:
   "He ate then" and not "He ate it" since the demonstrative pronoun *þa* is
   feminine and *wæstm* (fruit: which he ate) is masculine.
+
+:19:
+  *hi* here being edited by Mitchell and Robinson to *hie* rather than *he* in
+  order to agree with the plural *oncneowon*.
+
+:20:
+  I would have said that *ficleaf* was singular initially but it is neuter and
+  hence the plural is indeed the same if it has a long-stem. If you understand
+  fully what long-stem means, you are doing better than I.
