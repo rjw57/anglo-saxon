@@ -284,9 +284,8 @@ class TextLine(Line):
       discussion_words.remove(verb_class)
 
       word_class = 'verb verb-class-%s' % (verb_class,)
-      display_class = 'verb (class %s)' % (verb_class,)
 
-      inflection = []
+      inflection = ['class %s' % (verb_class,)]
 
       if 'inf.'  in discussion_words:
         inflection.append('infinitive')
@@ -322,7 +321,9 @@ class TextLine(Line):
       except IndexError:
         raise ParseError('No root word in analysis: %s' % (discussion,))
       discussion_words = discussion_words[:-1]
-      discussion_html.append('of <i>' + root + '</i>')
+
+      display_class = 'verb (%s)' % (root,)
+      # discussion_html.append('of <i>' + root + '</i>')
     elif noun_match is not None:
       spec = noun_match.group(1)
       discussion_words.remove(spec)
@@ -334,7 +335,7 @@ class TextLine(Line):
 
       if 'prop.' in discussion_words:
         discussion_words.remove('prop.')
-        discussion_html.append('proper noun')
+        display_class += ' (proper)'
         if len(discussion_words) > 2:
           raise ParseError('More discussion than necessary?: %s' % (discussion,))
       else:
@@ -343,7 +344,8 @@ class TextLine(Line):
         except IndexError:
           raise ParseError('No root word in analysis: %s' % (discussion,))
         discussion_words = discussion_words[:-1]
-        discussion_html.append('of <i>' + root + '</i>')
+        display_class += ' (<em>' + root + '</em>)'
+        # discussion_html.append('of <i>' + root + '</i>')
     else:
       discussion_html.append(cgi.escape(discussion))
 
@@ -375,7 +377,8 @@ class TextLine(Line):
     analysis_iter = self.word_analysis.__iter__()
 
     for hl in self.half_lines:
-      lines.append('<span class="oe-text-half-line">')
+      if len(self.half_lines) > 1:
+        lines.append('<span class="oe-text-half-line">')
 
       for word, sep in hl:
         word_class = 'unknown'
@@ -403,19 +406,24 @@ class TextLine(Line):
           lines.append('<span class="oe-word-analysis">%s</span>' % (discussion_html,))
         lines.append('</span>')
 
-      lines.append('</span>')
+      if len(self.half_lines) > 1:
+        lines.append('</span>')
 
     lines.append('</div>')
 
     if self.translation is not None:
       lines.append('<div class="oe-text-translation">')
-      for hl in split_half_lines(self.translation):
+      translation_half_lines = split_half_lines(self.translation)
+      for hl in translation_half_lines:
         words = ''
         for w, s in hl:
           words += w
           if s is not None:
             words += s
-        lines.append('<span class="oe-text-half-line">%s</span>' % (words,))
+        if len(translation_half_lines) > 1:
+          lines.append('<span class="oe-text-half-line">%s</span>' % (words,))
+        else:
+          lines.append(words)
       lines.append('</div>')
 
     lines.append('</div>')
