@@ -106,11 +106,13 @@ class TextLine(Line):
       raise ParseError('Error parsing noun inflection: %s' % (spec,))
 
     try:
-      return ', '.join([
+      spec_list = [
           TextLine.CASE_TABLE[spec[0]],
-          TextLine.QUANTITY_TABLE[spec[1]], 
-          TextLine.GENDER_TABLE[spec[2]], 
-      ])
+          TextLine.QUANTITY_TABLE[spec[1]],
+      ]
+      if spec[2] != '?':
+          spec_list.append(TextLine.GENDER_TABLE[spec[2]])
+      return ', '.join(spec_list)
     except KeyError:
       raise ParseError('Error parsing noun inflection: %s' % (spec,))
 
@@ -152,7 +154,7 @@ class TextLine(Line):
 
     discussion_words = discussion.split(' ')
     verb_match = re.match(r'([0-9IV]+) (.*)', discussion)
-    noun_match = re.match(r'([nagdi][sp][mnf]+) (.*)', discussion)
+    noun_match = re.match(r'([nagdi][sp][mnf\?]+) (.*)', discussion)
     adjective_match = re.match(r'(adj\.+) (.*)', discussion)
     pronoun_word = 'pron.'
     conj_word = 'conj.'
