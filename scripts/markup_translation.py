@@ -364,7 +364,9 @@ class TextLine(Line):
     lines.append('<div class="oe-text-line-number">%s</div>' % (self.line_no,))
     lines.append('<div class="oe-text-original">')
 
+    have_analysis = len(self.word_analysis) > 0
     analysis_iter = self.word_analysis.__iter__()
+
     for hl in self.half_lines:
       lines.append('<span class="oe-text-half-line">')
 
@@ -372,7 +374,7 @@ class TextLine(Line):
         word_class = 'unknown'
         discussion_html = None
 
-        if len(word) > 0:
+        if len(word) > 0 and have_analysis:
           analysis = next(analysis_iter)
           try:
             pa = self.parse_analysis(word, analysis)
