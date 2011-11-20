@@ -313,6 +313,21 @@ in the King James version of the bible.
 | :trans:`they sewed together figleaves, and made clothing. Again`
 | ..
 | ða ða God com, ond hi gehyrdon his stemne ðær he
+| ..
+| :word:`ða:`
+| :word:`ða:`
+| :word:`God: nsm prop.: God`
+| :word:`com:`
+| :word:`ond: conj.: and`
+| :word:`hi: 3 pers. pron. np?: they`
+| :word:`gehyrdon:`
+| :word:`his: 3 pers. pron. gsm: his`
+| :word:`stemne:`
+| :word:`ðær:`
+| :word:`he: 3 pers. pron. nsm: he`
+| ..
+| :trans:``
+| ..
 | eode on neorxnawange ofer midne dæg, ða behydde
 | Adam hine, ond his wif eac swa dyde, fram Godes
 | gesihðe on middam ðam treowe neorxnanwonges. God
