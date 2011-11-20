@@ -152,7 +152,7 @@ in the King James version of the bible.
 | :word:`wife: dsn wif: woman`
 | :word:`Ne: adv.: not, nor`
 | ..
-| :trans:`would perish. Then the snake spoke again to the woman.`
+| :trans:`would perish." Then the snake spoke again to the woman.`
 | ..
 | beo ge nateshwon deade, ðeah ðe ge of ðam treowe
 | ..
@@ -270,7 +270,7 @@ in the King James version of the bible.
 | :word:`sealde: I pret. 3 sellan: gave`
 | :word:`hyre: 3 pers. pron. gsf (variant of <em>hire</em>): her`
 | ..
-| :trans:`the fruit of that tree and devoured it and gave her`
+| :trans:`the fruit of that tree and devoured it and gave it to her`
 | ..
 | were: he æt ða. Ond heora begra eagan wurden
 | ..
@@ -284,7 +284,7 @@ in the King James version of the bible.
 | :word:`eagan: apn eage: eyes`
 | :word:`wurden: III 3 (M&amp;R have wurdon) weorðan: became, happened`
 | ..
-| :trans:`man it: he ate then. And both their eyes became`
+| :trans:`man: he ate then. And both their eyes became`
 | ..
 | geopenode; hi oncneowon ða ðæt hi nacode wæron,
 | ..
