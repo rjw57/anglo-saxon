@@ -44,7 +44,8 @@ def split_half_lines(text):
   current_half_line = []
 
   half_line_end_sep = re.compile(r'\s\s+$')
-  for w, s in grouper(2, re.split('(\W+)', text, flags=re.UNICODE)):
+  word_pat = re.compile(r'(\W+)', flags=re.UNICODE)
+  for w, s in grouper(2, re.split(word_pat, text)):
     current_half_line.append((w,s))
 
     if s is not None and len(current_half_line) > 0 and re.search(half_line_end_sep, s) is not None:
