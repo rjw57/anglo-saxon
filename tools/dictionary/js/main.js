@@ -40,7 +40,7 @@ $(document).ready(function() {
           entry_text = entries[entry_idx].toLowerCase();
           if(-1 != entry_text.indexOf(query))
           {
-            score = 50;
+            score = 25;
           }
         }
       }
@@ -54,7 +54,7 @@ $(document).ready(function() {
     }
 
     if(results.length > 300) {
-      return;
+      results = results.slice(0, 300);
     }
 
     // sort by _ascending_ score and then normalised word if
