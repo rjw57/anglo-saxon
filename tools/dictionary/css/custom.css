@@ -1,1 +1,19 @@
-p.second { margin-left: 3ex; }
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond&subset=latin,latin-ext);
+#search-results, #search-bar { font-family: 'EB Garamond', serif; }
+
+#search-bar {
+  position: fixed; top: 0; height: 2.2em; left: 0; right: 0;
+  padding-top: 0.5em; background-color: #ddd; line-height: 1.2em;
+}
+#search-bar form { margin: 0 10%; }
+
+#search-results { padding-top: 3em; }
+
+.result { display: table; }
+.head { font-weight: bold; padding-right: 1.5ex; display: table-cell; }
+.result ol {
+  list-style: upper-roman inside;
+  display: table-cell; margin-left: 0; padding-left: 0;
+}
+.result ol li, .result p { margin: 0 0 0.5em 0; padding: 0; }
+.result ol li:before { font-weight: bold; }
