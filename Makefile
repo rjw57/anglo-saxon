@@ -39,8 +39,12 @@ help:
 	@echo "  linkcheck  to check all external links for integrity"
 	@echo "  doctest    to run all doctests embedded in the documentation (if enabled)"
 
-sync: html
+sync: html dictionary
 	rsync -av --delete $(BUILDDIR)/html/ richwareham.com:/var/www/richwareham.com/htdocs/oe-notes
+
+.PHONY: dictionary
+dictionary:
+	rsync -av --delete --exclude '*.sh' --exclude '.*.swp' tools/dictionary/ $(BUILDDIR)/html/dictionary/
 
 translations: $(patsubst $(TRANSDIR)/%.rst, $(GENTRANSDIR)/%.rst, $(wildcard $(TRANSDIR)/*.rst))
 
