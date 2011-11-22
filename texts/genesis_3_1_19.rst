@@ -314,51 +314,462 @@ in the King James version of the bible.
 | ..
 | ða ða God com, ond hi gehyrdon his stemne ðær he
 | ..
-| :word:`ða:`
-| :word:`ða:`
+| :word:`ða: spec. þa repeated: when`
+| :word:`ða: spec. þa repeated: when`
 | :word:`God: nsm prop.: God`
-| :word:`com:`
+| :word:`com: v. 3 pret. cuman: came`
 | :word:`ond: conj.: and`
 | :word:`hi: 3 pers. pron. np?: they`
-| :word:`gehyrdon:`
+| :word:`gehyrdon: v. pl. pret. hieran: heard`
 | :word:`his: 3 pers. pron. gsm: his`
-| :word:`stemne:`
-| :word:`ðær:`
+| :word:`stemne: asf stefn: voice`
+| :word:`ðær: adv.: there, where`
 | :word:`he: 3 pers. pron. nsm: he`
 | ..
-| :trans:``
+| :trans:`when God came, and they heard his voice when he`
 | ..
 | eode on neorxnawange ofer midne dæg, ða behydde
+| ..
+| :word:`eode: v. pret. 3 gan: walked`
+| :word:`on: prep. w.d.a.: on, in`
+| :word:`neorxnawange: dsm neorxnawang: paradise`
+| :word:`ofer: conj.: over, during`
+| :word:`midne: adj. nsm midne: mid`
+| :word:`dæg: nsm dæg: day`
+| :word:`ða: dem. pron. np?: they`
+| :word:`behydde: 1 3 pret. behyddan: hid`
+| ..
+| :trans:`walked in paradise in the afternoon, then hid`
+| ..
 | Adam hine, ond his wif eac swa dyde, fram Godes
+| ..
+| :word:`Adam: asm prop.: Adam`
+| :word:`hine: 3 pers. pron. asm: he`
+| :word:`ond: conj.: and`
+| :word:`his: 3 pers. pron. gsm: his`
+| :word:`wif: asn wif: woman`
+| :word:`eac: adv.: likewise`
+| :word:`swa: spec. with <i>eac</i>: likewise`
+| :word:`dyde: v. pret. 3 don: did`
+| :word:`fram: prep. w.d.: from`
+| :word:`Godes: gsm prop.: God's`
+| ..
+| :trans:`Adam, and his woman did likewise, from God's`
+| ..
 | gesihðe on middam ðam treowe neorxnanwonges. God
+| ..
+| :word:`gesihðe: dsf sihð: sight`
+| :word:`on: prep. w.d.: on, in`
+| :word:`middam: adv.: midst`
+| :word:`ðam: dem. pron. dsn: that`
+| :word:`treowe: dsn treow: tree`
+| :word:`neorxnanwonges: gsm neorxnawang: of paradise`
+| :word:`God: nsm prop.: God`
+| ..
+| :trans:`sight in the middle of that tree of paradise. God`
+| ..
 | clypode ða Adam, ond cwæð "Adam, hwær eart ðu?" He
+| ..
+| :word:`clypode: 2 3 pret. clipian: summoned`
+| :word:`ða: conj.: then(?)`
+| :word:`Adam: nsm prop.: Adam`
+| :word:`ond: conj.: and`
+| :word:`cwæð: V 1 pret. cweðan: spoke, said`
+| :word:`Adam: nsm prop.: Adam`
+| :word:`hwær: int. pron. am: where`
+| :word:`eart: anom. second person, singular wesan: are`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`He: 3 pers. pron. nsm: He`
+| ..
+| :trans:`summoned then Adam, and said "Adam, where are you?" He (Adam)`
+| ..
 | cwæð, "Ðine stemne ic gehire, leof, on
+| ..
+| :word:`cwæð: V 1 pret. cweðan: spoke, said`
+| :word:`Ðine: poss. pron. asf: your`
+| :word:`stemne: asf stefn: voice`
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`gehire: v. 1 gehieran: hear`
+| :word:`leof: adj. nsm (not sure why this is here) leof: beloved`
+| :word:`on: prep. w.d.: on, in`
+| ..
+| :trans:`said, "I heard your (beloved?) voice, in`
+| ..
 | neorxnawange, ond ic ondræde me, for ðam ðe ic eom
+| ..
+| :word:`neorxnawange: dsm neorxnawang: paradise`
+| :word:`ond: conj.: and`
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`ondræde: VII 3 pret. (<i>M&amp;R</i> have ondred) ondrædan: afeared`
+| :word:`me: 1 pers. pron. as: me`
+| :word:`for: prep. w.d.a.i.: for, because of`
+| :word:`ðam: spec. with <i>for</i>: because of`
+| :word:`ðe: spec. with <i>for</i>: because of`
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`eom: anom. first person, singular wisan: am`
+| ..
+| :trans:`paradise and I was afraid because I am`
+| ..
 | nacod, ond ic behyde me." God cwæð, "Hwa sæde ðe
+| ..
+| :word:`nacod: adj. nsm nacod: naked`
+| :word:`ond: conj.: and`
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`behyde: 1 pret. behyddan: hid`
+| :word:`me: 1 pers. pron. as: me`
+| :word:`God: nsm prop.: God`
+| :word:`cwæð: V 2 pret. cweðan: spoke, said`
+| :word:`Hwa: int. pron. nm: Who`
+| :word:`sæde: 3 3 pret. secgan: said`
+| :word:`ðe: 2 pers. pron. as: you`
+| ..
+| :trans:`naked and I hid myself." God said, "Who told`
+| ..
 | ðæt ðu nacod wære, gyf ðu ne æte of ðam treowe ðe
+| ..
+| :word:`ðæt: conj.: that`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`nacod: adj. nsm nacod: naked`
+| :word:`wære: anom. second person, preterite beon: were`
+| :word:`gyf: conj. (with subjunctive): if`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`ne: conj.: not`
+| :word:`æte: V subj. pret. etan: were to eat`
+| :word:`of: prep. w.d.: of, from`
+| :word:`ðam: dem. pron. dsn: that`
+| :word:`treowe: dsn treow: tree`
+| :word:`ðe: conj.: that, which`
+| ..
+| :trans:`you that you were naked, if you have not eaten of the tree which`
+| ..
 | ic ðe bebead ðæt ðu ne æte?" Adam cwæð, "Ðæt wif
+| ..
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`ðe: 2 pers. pron. as: you`
+| :word:`bebead: II 3 pret. bebeodan: commanded`
+| :word:`ðæt: conj.: that`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`ne: conj.: not`
+| :word:`æte: V subj. pret. etan: were to eat`
+| :word:`Adam: nsm prop.: Adam`
+| :word:`cwæð: V 3 pret. cweðan: spoke, said`
+| :word:`Ðæt: dem. pron. nsf: that`
+| :word:`wif: nsn wif: woman`
+| ..
+| :trans:`I commanded that you were not to eat of?" Adam said, "The woman`
+| ..
 | ðe ðu me forgeafe to geferan, sealde me of ðam
+| ..
+| :word:`ðe: spec. indeclinable relative pronoun: that, which`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`me: 1 pers. pron. as: me`
+| :word:`forgeafe: V 2 pret. forgiefan: gave (in marriage)`
+| :word:`to: spec. inflected infinitive: to`
+| :word:`geferan: v. geferan: to set out, to travel`
+| :word:`sealde: 1 pret. 3 sellan: gave`
+| :word:`me: 1 pers. pron. as: me`
+| :word:`of: prep. w.d.: of, from`
+| :word:`ðam: dsn dem. pron.: that`
+| ..
+| :trans:`which you gave me to travel with, gave me of that`
+| ..
 | treowe, ond ic ætt." God cwæð to ðam wife, "Hwi
+| ..
+| :word:`treowe: dsn treow: tree`
+| :word:`ond: conj.: and`
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`ætt: V 1 pret. eton: ate`
+| :word:`God: nsm prop.: God`
+| :word:`cwæð: V 3 pret. cweðan: spoke, said`
+| :word:`to: prep. w.d.: to`
+| :word:`ðam: dem. pron. dsn: the`
+| :word:`wife: dsf wif: woman`
+| :word:`Hwi: spec. interrogative pronoun: Why`
+| ..
+| :trans:`tree, and I ate." God said to the woman, "Why`
+| ..
 | dydestu þæt? Heo cwæð, "Seo nædre bepæhte me ond
+| ..
+| :word:`dydestu: spec. In M&amp;R, <i>dydest þu</i>: did you`
+| :word:`þæt: nsn dem. pron.: that`
+| :word:`Heo: 3 pers. pron. nsf: she`
+| :word:`cwæð: V 3 pret. cweðan: spoke, said`
+| :word:`Seo: dem. pron. nsf: the`
+| :word:`nædre: nsf nædre: snake`
+| :word:`bepæhte: 1 1 pret. bepæcan: deceived`
+| :word:`me: 1 pers. pron. as: me`
+| :word:`ond: conj.: and`
+| ..
+| :trans:`did you do that? She said, "The snake deceived me and`
+| ..
 | ic ætt." God cwæð to ðære næddran, "For ðan ðe ðu
+| ..
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`ætt: V 1 pret. eton: ate`
+| :word:`God: nsm prop.: God`
+| :word:`cwæð: V 3 pret. cweðan: spoke, said`
+| :word:`to: prep. w.d.: to`
+| :word:`ðære: dsf dem. pron.: the`
+| :word:`næddran: dsf nædre: snake`
+| :word:`For: spec.: because`
+| :word:`ðan: spec.: because`
+| :word:`ðe: spec.: because`
+| :word:`ðu: 2 pers. pron. ns: you`
+| ..
+| :trans:`I ate." God said to the snake, "Because you`
+| ..
 | ðis dydest, ðu bist awyrged betweox eallum nytenum
+| ..
+| :word:`ðis: dem. pron. asn: this`
+| :word:`dydest: 1 2 pret. don: did`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`bist: anom. second person, singular beon: are, will be`
+| :word:`awyrged: 1 (past participle) awyrgian: cursed`
+| :word:`betweox: prep. w.d.: between, among`
+| :word:`eallum: adj. dpn eall: all`
+| :word:`nytenum: dpn nieten: cattle`
+| ..
+| :trans:`did this, you will be cursed among all cattle`
+| ..
 | ond wildeorum: ðu gæst on ðinum breoste ond etst
+| ..
+| :word:`ond: conj.: and`
+| :word:`wildeorum: dpn wildeor: wild beasts`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`gæst: anom. second person, singular gan: go`
+| :word:`on: prep. w.d.: on`
+| :word:`ðinum: poss. pron. ds?: your`
+| :word:`breoste: ds? breost: belly`
+| :word:`ond: conj.: and`
+| :word:`etst: V 2 eton: eat`
+| ..
+| :trans:`and beasts: you will go on your belly and eat`
+| ..
 | ða eorðan eallum dagum ðines lifes. Ic sette
+| ..
+| :word:`ða: asf dem. pron.: the`
+| :word:`eorðan: asf eorðe: ground, soil`
+| :word:`eallum: adj. dpm eall: all`
+| :word:`dagum: dpn dæg: days`
+| :word:`ðines: poss. pron. gsf: of your`
+| :word:`lifes: gsn lif: life`
+| :word:`Ic: 1 pers. pron. ns: I`
+| :word:`sette: 1 1 settan: set, lay, put`
+| ..
+| :trans:`the ground all the days of your life. I will set`
+| ..
 | feondrædene betwux ðe ond ðam wife ond ðinum
+| ..
+| :word:`feondrædene: asf feondraden: emnity`
+| :word:`betwux: prep. w.d.a.: between, among`
+| :word:`ðe: 2 pers. pron. ds: you`
+| :word:`ond: conj.: and`
+| :word:`ðam: dem. pron. dsn: the`
+| :word:`wife: dsn wif: woman`
+| :word:`ond: conj.: and`
+| :word:`ðinum: poss. pron. dsm: your`
+| ..
+| :trans:`emnity between you and the woman and your`
+| ..
 | ofspringe ond hire ofspringe; heo tobrytt ðin
+| ..
+| :word:`ofspringe: dsm ofspring: descendants`
+| :word:`ond: conj.: and`
+| :word:`hire: 3 pers. pron. gsf: her`
+| :word:`ofspringe: dsm ofspring: descendants`
+| :word:`heo: 3 pers. pron. nsf: she`
+| :word:`tobrytt: 1 3 tobrytan: crushes`
+| :word:`ðin: poss. pron. asn: your`
+| ..
+| :trans:`descendants and her descendants; she will crush your`
+| ..
 | heafod ond ðu syrwst ongean hire ho." To ðam wife
+| ..
+| :word:`heafod: asn heafod: head`
+| :word:`ond: conj.: and`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`syrwst: v. 2 sierwan: plan, entrap`
+| :word:`ongean: adv.: again, back`
+| :word:`hire: 3 pers. pron. gsf: her`
+| :word:`ho: asm hoh: heel`
+| :word:`To: prep. w.d.: to`
+| :word:`ðam: dsn dem. pron.: the`
+| :word:`wife: dsn wif: woman`
+| ..
+| :trans:`head you will plot back against her heel." To the woman`
+| ..
 | cwæð God eac swylce, "Ic gemænifylde ðine yrmða
+| ..
+| :word:`cwæð: V 3 pret. cweðan: spoke, said`
+| :word:`God: nsm prop.: God`
+| :word:`eac: adv.: also, likewise`
+| :word:`swylce: adv.: in a similar manner`
+| :word:`Ic: 1 pers. pron. ns: I`
+| :word:`gemænifylde: 1 1 gemanigfealdian: multiply, increase`
+| :word:`ðine: as? poss. pron.: your`
+| :word:`yrmða: ap? iermðu: miseries`
+| ..
+| :trans:`God said in a similar manner, "I shall magnify your miseries`
+| ..
 | ond ðine geeacnunga; on sarnysse ðu ancenst cild,
+| ..
+| :word:`ond: conj.: and`
+| :word:`ðine: poss. pron. apf: your`
+| :word:`geeacnunga: apf eacnung: conceptions, child bearings`
+| :word:`on: prep. w.d.: on`
+| :word:`sarnysse: dsf sarnes: affliction, suffering`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`ancenst: 1 2 acennan: being forth`
+| :word:`cild: nsn cild: child`
+| ..
+| :trans:`and pregnancy; you will suffer in child birth`
+| ..
 | ond ðu bist under weres anwealde ond he gewylt
+| ..
+| :word:`ond: conj.: and`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`bist: anom. second person, singular beon: will be`
+| :word:`under: prep. w.d.a.: under`
+| :word:`weres: gsm wer: man's`
+| :word:`anwealde: as? onweld: authority`
+| :word:`ond: conj.: and`
+| :word:`he: 3 pers. pron. nsm: he`
+| :word:`gewylt: VII 3 (with accusitive) gewealdan: rules`
+| ..
+| :trans:`and you will be under man's authority and he will rule`
+| ..
 | ðe." To Adame he cwæð, "For ðan ðe ðu gehyrdes
+| ..
+| :word:`ðe: 2 pers. pron. as: you`
+| :word:`To: prep. w.d.: to`
+| :word:`Adame: dsm prop.: Adam`
+| :word:`he: 3 pers. pron. nsm: he`
+| :word:`cwæð: V 3 pret. cweðan: spoke, said`
+| :word:`For: prep. w.d.: for, because of`
+| :word:`ðan: ds? dem. pron.: this`
+| :word:`ðe: spec.: that`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`gehyrdes: v. 2 gehieran: hear`
+| ..
+| :trans:`you." To Adam he said, "Because you listened to`
+| ..
 | ðines wifes stemne, ond ðu æte of ðam treowe ðe ic
+| ..
+| :word:`ðines: poss. pron. gsf: your`
+| :word:`wifes: gsf wif: woman's`
+| :word:`stemne: asf stefn: voice`
+| :word:`ond: conj.: and`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`æte: V 2 pret. eton: ate`
+| :word:`of: prep. w.d.: of, from`
+| :word:`ðam: dsn dem. pron.: that`
+| :word:`treowe: dsn treow: tree`
+| :word:`ðe: 2 pers. pron. as: you`
+| :word:`ic: 1 pers. pron. ns: I`
+| ..
+| :trans:`your woman's voice and you ate from that tree which I`
+| ..
 | ðe bebead ðæt ðu ne æte, is seo eorðe awyrged on
+| ..
+| :word:`ðe: 2 pers. pron. as: you`
+| :word:`bebead: II 2 pret. bebeodan: commanded, bade`
+| :word:`ðæt: conj.: that`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`ne: conj.: not`
+| :word:`æte: V 2 pret. eton: ate`
+| :word:`is: anom. third person, singular, wesan: is`
+| :word:`seo: nsf dem. pron.: the`
+| :word:`eorðe: nsf eorðe: ground, soil`
+| :word:`awyrged: v. (past participle) awiergan: cursed`
+| :word:`on: prep. w.d.: on, with`
+| ..
+| :trans:`commanded that you not eat of, this ground is cursed by`
+| ..
 | ðinum weorce: on geswyncum ðu etst of ðære eorðan
+| ..
+| :word:`ðinum: poss. pron. dsn: your`
+| :word:`weorce: dsn weorc: work, action`
+| :word:`on: prep. w.d.: on, with`
+| :word:`geswyncum: dsn geswinc: toil, hardship`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`etst: v. 2 eton: eat`
+| :word:`of: prep. w.d.: of, from`
+| :word:`ðære: dpf dem. pron.: the`
+| :word:`eorðan: dpf eorðe: grounds, lands`
+| ..
+| :trans:`your action: with hardship you will eat from the land`
+| ..
 | eallum dagum ðines lifes. Ðornas ond bremelas heo
+| ..
+| :word:`eallum: adj. dpm eall: all`
+| :word:`dagum: dpm dæg: the days`
+| :word:`ðines: poss. pron. gpn: of your`
+| :word:`lifes: gsn lif: life`
+| :word:`Ðornas: npm þorn: thorns`
+| :word:`ond: conj.: and`
+| :word:`bremelas: npm bremel: brambles`
+| :word:`heo: 3 pers. pron. nsf: she`
+| ..
+| :trans:`all the days of your life. Thorns and brambles it`
+| ..
 | aspryt ðe, ond ðu ytst ðære eorðan wyrta. On swate
+| ..
+| :word:`aspryt: 1 3 aspryttan: bring forth`
+| :word:`ðe: 2 pers. pron. as: you`
+| :word:`ond: conj.: and`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`ytst: v. 2 eton: eat`
+| :word:`ðære: dem. pron. gsf: the`
+| :word:`eorðan: gsf eorðe: ground's`
+| :word:`wyrta: apf wyrt: herb, plants`
+| :word:`On: prep. w.d.: on, with`
+| :word:`swate: dsm swat: toil`
+| ..
+| :trans:`will bring you and you will eat the herbs of the soil. With the sweat`
+| ..
 | ðines andwlitan ðu brycst ðines hlafes, oð ðæt ðu
+| ..
+| :word:`ðines: poss. pron. gsm: your`
+| :word:`andwlitan: gsm andwlita: face`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`brycst: v. 2 (takes genitive object) brecan: break`
+| :word:`ðines: poss. pron. gsm: your`
+| :word:`hlafes: gsm hlaf: loaf's`
+| :word:`oð: prep. w.d.: tp, up to, until`
+| :word:`ðæt: asn dem. pron.: that`
+| :word:`ðu: 2 pers. pron. ns: you`
+| ..
+| :trans:`of your forehead you will break bread, until you`
+| ..
 | gewende to eorðan of ðære ðe ðu genumen wære, for
+| ..
+| :word:`gewende: v. gwendan: return`
+| :word:`to: prep. w.d.: to`
+| :word:`eorðan: dsf eorð: ground`
+| :word:`of: prep. w.d.: of, from`
+| :word:`ðære: dsf dem. pron.: that`
+| :word:`ðe: 2 pers. pron. as: you`
+| :word:`ðu: 2 pers. pron. ns: you`
+| :word:`genumen: v. (past participal) niman: take`
+| :word:`wære: anom. second person, preterite beon: were`
+| :word:`for: prep. w.d.: for, because`
+| ..
+| :trans:`return to the ground out of which you were taken, for`
+| ..
 | ðan ðe ðu eart dust ond to duste gewyrst."
+| ..
+| :word:`ðan: dsf dem. pron.: that`
+| :word:`ðe: 2 pers. pron. ns: you`
+| :word:`ðu: 2 pers. pron. as: you`
+| :word:`eart: anom. second person wesan: are`
+| :word:`dust: nsn dust: dust`
+| :word:`ond: conj.: and`
+| :word:`to: prep. w.d.: to`
+| :word:`duste: dsn dust: dust`
+| :word:`gewyrst: v. 2 weorþan: become`
+| ..
+| :trans:`you are dust and dust you shall become."`
+| ..
 
 .. raw:: html
 
@@ -405,3 +816,6 @@ Notes on specific lines
   I would have said that *ficleaf* was singular initially but it is neuter and
   hence the plural is indeed the same if it has a long-stem. If you understand
   fully what long-stem means, you are doing better than I.
+
+:22:
+  *þa þa ... þa* is translated as "when ... then" by Mitchell and Robinson.

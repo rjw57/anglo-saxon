@@ -154,7 +154,7 @@ class TextLine(Line):
     display_class = 'unknown'
 
     discussion_words = discussion.split(' ')
-    verb_match = re.match(r'([0-9IV]+) (.*)', discussion)
+    verb_match = re.match(r'([0-9IV]+|v\.) (.*)', discussion)
     noun_match = re.match(r'([nagdi][sp][mnf\?]+) (.*)', discussion)
     adjective_match = re.match(r'(adj\.+) (.*)', discussion)
     pronoun_word = 'pron.'
@@ -224,6 +224,12 @@ class TextLine(Line):
         display_class = 'pronoun (interrogative)'
         discussion_html.append(self._parse_int_pronoun_inflection_spec(discussion_words[0]))
         discussion_words = discussion_words[1:]
+      elif 'poss.' in discussion_words:
+        discussion_words.remove('poss.')
+        word_class = 'pronoun possessive-pronoun'
+        display_class = 'pronoun (possessive)'
+        discussion_html.append(self._parse_noun_inflection_spec(discussion_words[0]))
+        discussion_words = discussion_words[1:]
       elif 'pers.' in discussion_words:
         discussion_words.remove('pers.')
         word_class = 'pronoun personal-pronoun'
@@ -288,7 +294,9 @@ class TextLine(Line):
 
       word_class = 'verb verb-class-%s' % (verb_class,)
 
-      inflection = ['class %s' % (verb_class,)]
+      inflection = list()
+      if verb_class != 'v.':
+        inflection.append('class %s' % (verb_class,))
 
       if 'inf.'  in discussion_words:
         inflection.append('infinitive')

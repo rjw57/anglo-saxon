@@ -18,6 +18,9 @@ $(document).ready(function() {
       return;
     }
 
+    // remove q's (macrons) from query
+    norm_query = query.replace(/q/g, '');
+
     // Generate a list of objects representing the search results. Each object
     // has a score attribute and id attribute.
     results = [];
@@ -28,9 +31,9 @@ $(document).ready(function() {
       score = -1; // no match
 
       // exact match?
-      if(norm_word_id == query) {
+      if(norm_word_id == norm_query) {
         score = 100;
-      } else if(0 === norm_word_id.indexOf(query)) {
+      } else if(0 === norm_word_id.indexOf(norm_query)) {
         // partial match, score based on remaining letter count
         score = 100 / (1 + norm_word_id.length - query.length);
       } else {
