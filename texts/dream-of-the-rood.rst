@@ -94,7 +94,7 @@ from the Univeristy of Calgary.
 | :word:`Gimmas: npm gimm: gems`
 | :word:`stodon: v. pret. pl. standan: stood`
 | ..
-| :trans:`glimmering with gold.   Gems lay glowing`
+| :trans:`glimmered with gold.   Gems lay glowing`
 | ..
 | fægere æt foldan sceatum,   swylce þær fife wæron
 | ..
