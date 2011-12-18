@@ -88,7 +88,7 @@ from the Univeristy of Calgary.
 | ..
 | begoten mid golde.   Gimmas stodon
 | ..
-| :word:`begoten: spec. begeotan: annoited, drenched`
+| :word:`begoten: v. pp. begeotan: annoited, drenched`
 | :word:`mid: prep. w.d: with`
 | :word:`golde: nsn gold: gold`
 | :word:`Gimmas: npm gimm: gems`
@@ -107,7 +107,7 @@ from the Univeristy of Calgary.
 | :word:`fife: spec. 5: five`
 | :word:`wæron: anom. pret. pl. bēon: were`
 | ..
-| :trans:`fair in earthly folds,   and five figures were`
+| :trans:`fair in earthly folds,   and five there were`
 | ..
 | uppe on þam eaxlgespanne.   Beheoldon þær engel dryhtnes ealle,
 | ..
@@ -121,35 +121,184 @@ from the Univeristy of Calgary.
 | :word:`dryhtnes: gsm dryhten: lord, king, Christ`
 | :word:`ealle: adj. npm eall: all`
 | ..
-| :trans:`at the axel.   They all beheld the Lord's angel,`
+| :trans:`in the cross' embrace.   All creation, fair by our Lord's hand,`
 | ..
 | fægere þurh forðgesceaft.   Ne wæs ðær huru fracodes gealga,
 | ..
 | :word:`fægere: adj. npm fæger: beautiful`
 | :word:`þurh: prep.: through, by means of`
 | :word:`forðgesceaft: dsf forðgesceaft: creature, created being or thing, world`
-| :word:`Ne:`
-| :word:`wæs:`
-| :word:`ðær:`
-| :word:`huru:`
-| :word:`fracodes:`
-| :word:`gealga:`
+| :word:`Ne: prep.: nor`
+| :word:`wæs: anom. 1 pret. sg. bēon: was`
+| :word:`ðær: prep.: there`
+| :word:`huru: prep.: truly`
+| :word:`fracodes: gsn fracoð: a wicked man's`
+| :word:`gealga: asm gealga: gallows`
 | ..
-| :trans:`made beatiful by the creation of our Lord.`
+| :trans:`saw there God's angel.   These were no gallows for a wiked man,`
 | ..
 | ac hine þær beheoldon   halige gastas,
+| ..
+| :word:`ac: conj.: but`
+| :word:`hine: 3 pers. pron. asm: it`
+| :word:`þær: prep.: there`
+| :word:`beheoldon: v. pret. pl. behaldan: beheld`
+| :word:`halige: adj. npm hālig: holy`
+| :word:`gastas: npm gāst: spirits`
+| ..
+| :trans:`but hanging there to see   the Holy Ghost,`
+| ..
 | men ofer moldan,   ond eall þeos mære gesceaft.
+| ..
+| :word:`men: anom. np athematic man: men`
+| :word:`ofer: prep. w.d: resting on`
+| :word:`moldan: dsf molde: earth`
+| :word:`ond: conj.: and`
+| :word:`eall: adj. nsf eall: all`
+| :word:`þeos: dem. pron. nsf: this`
+| :word:`mære: adj. nsf mǣre: great`
+| :word:`gesceaft: nsf gesceaft: creation`
+| ..
+| :trans:`known by worldly men,   and wonderous creation.`
+| ..
 | Syllic wæs se sigebeam,   ond ic synnum fah,
+| ..
+| :word:`Syllic: adj. nsm seldlic: wonderous`
+| :word:`wæs: anom. 1 pret. sg. bēon: was`
+| :word:`se: dem. pron. nsm: the`
+| :word:`sigebeam: nsm sigebeam: victory-tree`
+| :word:`ond: conj.: and`
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`synnum: dsf synn: of sin, injury, mischief`
+| :word:`fah: anom. ambiguous adj. fāh: stained, decorated`
+| ..
+| :trans:`Splended that victory-tree,   and I was stained by sin,`
+| ..
 | forwunded mid wommum.   Geseah ic wuldres treow,
+| ..
+| :word:`forwunded: v. pp. forwundian: was wounded`
+| :word:`mid: prep. w.d: with, by way of`
+| :word:`wommum: dp? wamm: defects, crimes, injuries, faults`
+| :word:`Geseah: v. pret. 1 sēon: saw`
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`wuldres: gsf woldrun: of glory`
+| :word:`treow: asn trēow: tree`
+| ..
+| :trans:`wounded by faults.   I saw the wonderous tree,`
+| ..
 | wædum geweorðode,   wynnum scinan,
+| ..
+| :word:`wædum: dpf wǣd: with robe, dress`
+| :word:`geweorðode: v. pret. 3 weorðan: to become, be done, be made`
+| :word:`wynnum: dpf wynn: with joy`
+| :word:`scinan: v. inf. scīnan: to shine`
+| ..
+| :trans:`sure and noble it's garments,   shining with joy,`
+| ..
 | gegyred mid golde;   gimmas hæfdon
+| ..
+| :word:`gegyred: v. pp. gegyrran: adorned(?)`
+| :word:`mid: prep. w.d: with`
+| :word:`golde: dsn gold: gold`
+| :word:`gimmas: npm gimm: gems`
+| :word:`hæfdon: v. pret. pl. habban: had`
+| ..
+| :trans:`gold adorned;   gems had`
+| ..
 | bewrigene weorðlice   wealdendes treow.
+| ..
+| :word:`bewrigene: v. pp. bewrēon: covered`
+| :word:`weorðlice: adj. asn weorðlic: worthy, honourable`
+| :word:`wealdendes: gsm wealdend: of the leader, ruler`
+| :word:`treow: asn trēow: tree`
+| ..
+| :trans:`covered that worthy   tree of the ruler.`
+| ..
 | Hwæðre ic þurh þæt gold   ongytan meahte
+| ..
+| :word:`Hwæðre: spec.: yet`
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`þurh: prep. w.a: through, beyond`
+| :word:`þæt: asn dem. pron.: that`
+| :word:`gold: asn gold: gold`
+| :word:`ongytan: v. inf. ongietan: to perceive`
+| :word:`meahte: v. 3 magan: might`
+| ..
+| :trans:`I may yet see   beyond that gold`
+| ..
 | earmra ærgewin,   þæt hit ærest ongan
+| ..
+| :word:`earmra: spec.: of miserable, wretched`
+| :word:`ærgewin: spec. ārgewyrht: former work, deeds of old`
+| :word:`þæt: conj.: in that`
+| :word:`hit: 3 pers. pron. nsn: it`
+| :word:`ærest: prep.: first`
+| :word:`ongan: v. 3 pret. ongēan: began`
+| ..
+| :trans:`the former work of wretched ones,   from which it began`
+| ..
 | swætan on þa swiðran healfe.   Eall ic wæs mid sorgum gedrefed,
+| ..
+| :word:`swætan: v. inf. swǣtan: exude, sweat, bleed(?)`
+| :word:`on: prep. w.d: on, in`
+| :word:`þa: asf dem. pron.: the`
+| :word:`swiðran: adj. asf swiðre: right`
+| :word:`healfe: asf healf: half`
+| :word:`Eall: asn eall: everything`
+| :word:`ic: pers. pron. 1 ns: I`
+| :word:`wæs: anom. 1 pret. sg. bēon: was`
+| :word:`mid: prep. w.d: with`
+| :word:`sorgum: dpf sorg: sorrows`
+| :word:`gedrefed: v. pp. drēfan: afflicted`
+| ..
+| :trans:`to bleed from the right side.   I was affliced with sorrows,`
+| ..
 | forht ic wæs for þære fægran gesyhðe.   Geseah ic þæt fuse beacen
+| ..
+| :word:`forht: spec.: frightened`
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`wæs: anom. 1 pret. sg. bēon: was`
+| :word:`for: prep. w.d: before`
+| :word:`þære: dsf dem. pron.: the`
+| :word:`fægran: dsf fægre: fair`
+| :word:`gesyhðe: dsf gesihð: sight`
+| :word:`Geseah: v. 1 pret. sēon: saw`
+| :word:`ic: 1 pers. pron. ns: I`
+| :word:`þæt: conj.: that`
+| :word:`fuse: adj. asn fūslic: eager, ready to start`
+| :word:`beacen: asn bēacen: sign, token`
+| ..
+| :trans:`I was frightened before the beatiful sight.   I saw that eager sign`
+| ..
 | wendan wædum ond bleom;   hwilum hit wæs mid wætan bestemed,
+| ..
+| :word:`wendan: v. inf. wendan: to change, turn, direct`
+| :word:`wædum: dpf wǣd: of clothing`
+| :word:`ond: conj.: and`
+| :word:`bleom: spec.: with the preceeding, 'in respect of garments and colours'`
+| :word:`hwilum: dsf hwil: with time`
+| :word:`hit: nsn 3 pers. pron.: it`
+| :word:`wæs: anom. v. 3 pret. sg. bēon: was`
+| :word:`mid: prep. w.d: with`
+| :word:`wætan: dsn wǣt: water`
+| :word:`bestemed: v. pp. bestȳman: drenched`
+| ..
+| :trans:`change its grments;   with time it was drenched with wetness,`
+| ..
 | beswyled mid swates gange,   hwilum mid since gegyrwed.
+| ..
+| :word:`beswyled: v. pp. beswylian: soaked`
+| :word:`mid: prep. w.d: with`
+| :word:`swates: gp? swāt: sweat's, blood's`
+| :word:`gange: dsm gang: flow, course, path`
+| :word:`hwilum: dsf hwil: with time`
+| :word:`mid: prep. w.d: with`
+| :word:`since: dsn sinc: treasure, riches`
+| :word:`gegyrwed: v. pp. gegierwan: decked, dressed`
+| ..
+| :trans:`soaked with flowing blood,   with time it was adorned with treasure.`
+| ..
+
 | Hwæðre ic þær licgende   lange hwile
 | beheold hreowcearig   hælendes treow,
 | oððæt ic gehyrde   þæt hit hleoðrode.

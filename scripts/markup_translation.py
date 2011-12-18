@@ -304,6 +304,9 @@ class TextLine(Line):
       elif 'pret.' in discussion_words:
         inflection.append('preterite')
         discussion_words.remove('pret.')
+      elif 'pp.' in discussion_words:
+        inflection.append('past participle')
+        discussion_words.remove('pp.')
       else:
         inflection.append('present')
 
